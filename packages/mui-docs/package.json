@@ -35,7 +35,7 @@
     "test": "exit 0"
   },
   "dependencies": {
-    "@babel/runtime": "^7.23.9",
+    "@babel/runtime": "^7.24.0",
     "@mui/base": "workspace:*",
     "@mui/utils": "workspace:^",
     "clsx": "^2.1.0",

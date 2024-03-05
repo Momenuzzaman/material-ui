@@ -31,11 +31,11 @@
     "typecheck": "tsc --noEmit -p ."
   },
   "dependencies": {
-    "@babel/core": "^7.23.9",
+    "@babel/core": "^7.24.0",
     "@babel/helper-module-imports": "^7.22.15",
-    "@babel/helper-plugin-utils": "^7.22.5",
-    "@babel/parser": "^7.23.9",
-    "@babel/types": "^7.23.9",
+    "@babel/helper-plugin-utils": "^7.24.0",
+    "@babel/parser": "^7.24.0",
+    "@babel/types": "^7.24.0",
     "@emotion/css": "^11.11.2",
     "@emotion/react": "^11.11.4",
     "@emotion/serialize": "^1.1.3",
